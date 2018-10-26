@@ -8,7 +8,7 @@ TEl: +1 514889235
 
 ![image](https://github.com/MMK460/DZD/blob/master/round_corner_image_by_atool(1).png)
 海量兼职信息免费查询、发布。
-找兼职没爱赚怎么行？找兼职必备。
+找兼职没赚点兼职怎么行？找兼职必备。
 可查看附近兼职信息，真实、高效、免费!
 兼职信息发源地，让您找兼职更简单。
 
