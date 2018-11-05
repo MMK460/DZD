@@ -21,7 +21,7 @@ TEl: +1 514889235
 
 ![image](https://github.com/MMK460/DZD/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-11-05%20at%2011.54.50.png)
 
-![image](https://github.com/MMK460/DZD/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-10-23%20at%2014.26.12.png)
+![image](https://github.com/MMK460/DZD/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-11-05%20at%2012.05.55.png)
 
 iOS App Technical Support
 
